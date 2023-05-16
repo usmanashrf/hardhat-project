@@ -1,0 +1,112 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\WorkSpace\\MetaverseWeb3\\Quarter2\\PSFMA\\hardhat-self-prac\\hardhat-project\\contracts\\MyTest.sol": {
+      "lastModificationDate": 1684175258805,
+      "contentHash": "5ab5cae6f7925e8c9ad54ce9e9f43ab9",
+      "sourceName": "contracts/MyTest.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "MyContract"
+      ]
+    },
+    "D:\\WorkSpace\\MetaverseWeb3\\Quarter2\\PSFMA\\hardhat-self-prac\\hardhat-project\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1684163984139,
+      "contentHash": "4ff3cd2f6272c9a6516e9ee4f2b967d3",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">= 0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "D:\\WorkSpace\\MetaverseWeb3\\Quarter2\\PSFMA\\hardhat-self-prac\\hardhat-project\\contracts\\Faucet.sol": {
+      "lastModificationDate": 1684176772361,
+      "contentHash": "7de86ab87bfed3c96e6c92b3ff6f2bb2",
+      "sourceName": "contracts/Faucet.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Faucet"
+      ]
+    }
+  }
+}
